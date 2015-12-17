@@ -25,11 +25,11 @@ IDE: MonoDevelop
 
 ### Youtube ###
 
-   * Channel: https://www.youtube.com/channel/UC_rQ1n5XXcx6nqkXCAr2vTg/
+   Channel: https://www.youtube.com/channel/UC_rQ1n5XXcx6nqkXCAr2vTg/
 
 ### Prints ###
 
-   * ![text 101.png](https://bitbucket.org/repo/q4Le9e/images/3370152605-text%20101.png)
+   ![text 101.png](https://bitbucket.org/repo/q4Le9e/images/3370152605-text%20101.png)
 
 
    * ![text 101 ending.png](https://bitbucket.org/repo/q4Le9e/images/28371068-text%20101%20ending.png)
